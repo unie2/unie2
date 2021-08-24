@@ -27,13 +27,17 @@
 
 <br>
 
-<h3 align="center"> Blog And E-Mail </h3>
+<h3 align="center"> 💖 Blog And E-Mail 💖 </h3>
 
 <p align="center">
   <a href="https://unie2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:leeyoonhee2@naver.com" target="_blank"><img src="https://img.shields.io/badge/leeyoonhee2@naver.com-0054FF?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+<br>
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funie2&count_bg=%blue&title_bg=%2386757E&icon=github.svg&icon_color=blue&title=hits&edge_flat=False"/></a>
+</p>
 <!--
 **unie2/unie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
