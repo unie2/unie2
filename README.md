@@ -30,7 +30,7 @@
 <h3 align="center"> 💖 Blog And E-Mail 💖 </h3>
 
 <p align="center">
-  <a href="https://unie2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <!--<a href="https://unie2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>-->
   <a href="mailto:leeyoonhee2@naver.com" target="_blank"><img src="https://img.shields.io/badge/leeyoonhee2@naver.com-0054FF?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
