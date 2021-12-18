@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://unie2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/u.ni_e2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/u.ni_e2/"/></a>&nbsp
+<!--   <a href="https://www.instagram.com/u.ni_e2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/u.ni_e2/"/></a>&nbsp -->
   <a href="mailto:leeyoonhee2@naver.com" target="_blank"><img src="https://img.shields.io/badge/leeyoonhee2@naver.com-0054FF?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
