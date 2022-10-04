@@ -41,7 +41,6 @@
 
 <p align="center">
   <a href="https://unie2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>&nbsp
-<!--   <a href="https://www.instagram.com/u.ni_e2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/u.ni_e2/"/></a>&nbsp -->
   <a href="mailto:leeyoonhee2@naver.com" target="_blank"><img src="https://img.shields.io/badge/leeyoonhee2@naver.com-0054FF?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
@@ -50,7 +49,7 @@
 
 <div align="center" style="text-align:center">
    
-   [![Yoonhee's github stats](https://github-readme-stats.vercel.app/api?username=unie2&theme=algolia)](https://github.com/unie2/github-readme-stats)
+<!--    [![Yoonhee's github stats](https://github-readme-stats.vercel.app/api?username=unie2&theme=algolia)](https://github.com/unie2/github-readme-stats) -->
    
   <p align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funie2&count_bg=%233DB9C8&title_bg=%2386757E&icon=github.svg&icon_color=blue&title=hits&edge_flat=False"/></a>
